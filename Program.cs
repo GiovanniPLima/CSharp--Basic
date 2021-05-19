@@ -6,7 +6,7 @@ namespace Estudos
     class Program
     {
         static void Main(string[] args)
-        {   //solciitado o nome
+        {   //solicita o nome
             Console.WriteLine("Digite Seu Nome:");
             var nome = Console.ReadLine();
             var op = "";
